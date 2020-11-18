@@ -1,3 +1,7 @@
+**Needs revisions**
+**Please include part A where you highlight subjects and verbs of sentences**
+**You might find it easier to make sense of my comments if you include the questions with your answers.**
+
 # Translation-2
 
 
@@ -5,13 +9,13 @@ Long ago, Prometheus, first son of Iapetus, shaped man from mud. At the same tim
 
 Adjectival phrase.
 
-Third person sing. imperfect active of fingō [to shape].
+Third person sing. imperfect active of fingō [to shape]. (**What *mood* is it?  (Parse = person, number, tense, mood, voice**))
 
-Demonstrative adj., dative, feminine.
+Demonstrative adj., dative, feminine.  **What noun does *huic* agree with?**
 
-Transitive active sentence.
+Transitive active sentence.  **What is the grammatical function of each word in the sentence?**
 
-Third person sing. pluperfect passive indicative.
+Third person sing. pluperfect passive indicative. **We don't know the pluperfect tense yet.**
 
 Prepositional phrase.
 
