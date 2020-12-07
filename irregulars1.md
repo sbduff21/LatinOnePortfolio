@@ -1,3 +1,5 @@
+**Needs revisions**
+
 1. third person singular perfect indicative active
 
 2. present active infinitive
@@ -6,7 +8,7 @@
 
 4. third person singular imperfect indicative active
 
-5. third person plural imperfect indicative active
+5. third person plural imperfect indicative active **Compare the stem of this verb to the stem of #4 that you also called imperfect indicative active.**
 
 6. third person singular present subjunctive passive
 
@@ -18,7 +20,7 @@
 
 10. third person singular present indicative passive
 
-11. third person plural perfect indicative passice
+11. third person plural perfect indicative passive
 
 12. third person singular perfect subjunctive passive
 
@@ -28,4 +30,4 @@
 
 15. third person plural perfect passive subjunctive
 
-16. third person singular pluperfect active subjunctive
+16. third person singular pluperfect active subjunctive **What principal part is this verb built on?**
