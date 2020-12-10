@@ -8,7 +8,7 @@
 
 4. third person singular imperfect indicative active
 
-5. third person plural imperfect indicative active **Compare the stem of this verb to the stem of #4 that you also called imperfect indicative active.**
+5. third person plural imperfect subjunctive active **Compare the stem of this verb to the stem of #4 that you also called imperfect indicative active.**
 
 6. third person singular present subjunctive passive
 
@@ -30,4 +30,4 @@
 
 15. third person plural perfect passive subjunctive
 
-16. third person singular pluperfect active subjunctive **What principal part is this verb built on?**
+16. latus esset: third person singular pluperfect active subjunctive **What principal part is this verb built on?**
