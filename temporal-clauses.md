@@ -28,6 +28,6 @@
 
 4b. subjunctive
 
-4c. imperfect **If your other anwers say imperfect subjunctive implies earlier time, how can this imperfect subjunctive imply earlier time?**
+4c. pluperfect **If your other anwers say imperfect subjunctive implies earlier time, how can this imperfect subjunctive imply earlier time?**
 
 4d. earlier
