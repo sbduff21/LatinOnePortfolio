@@ -4,7 +4,7 @@
 
 # Translation-1
 
-'Chaos' primus decorum "erat". 'Filiae' eius, Nox et Terra, mater omnium hominum, "erant" 'Haec mater Mortis et Leti "erat". 'Illius filii' horribilia monstra "erant": Typhon, Python, et Cyclopes. 'Typonn et Python dracones ingentes "erant" et Cyclopes fabri bruti. Sed 'frater' eorum Uranus, primus ipse rex deorum. 'Hic' fortis et magnus "erat", sed sapiens. 
+'Chaos' primus deorum "erat". 'Filiae' eius, Nox et Terra, mater omnium hominum, "erant" 'Haec' mater Mortis et Leti "erat". 'Illius filii' horribilia monstra "erant": Typhon, Python, et Cyclopes. 'Typonn et Python dracones ingentes "erant" et Cyclopes fabri bruti. Sed 'frater' eorum Uranus, primus ipse rex deorum. 'Hic' fortis et magnus "erat", sed sapiens. 
 
 
 Chaos was the first god. His daughters were Night and Earth, the mother of all men. (**I think it will work more easiliy if you make "Night and Earth" the predicate.**)
