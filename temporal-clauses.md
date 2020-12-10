@@ -4,21 +4,22 @@
 
 1b. subjunctive
 
-1c. imperfect
+1c. imperfect **Does the stem of *erat* look like the present infinitive?**
 
 1d. contemporary
 
+
 2a. past
 
-2b. subjunctive
+2b. indicative **What is the stem of *errarent*?**
 
-2c. imperfect **Does the stem of *erat* look like the present infinitive?**
+2c. imperfect
 
 2d. contemporary
 
 3a. past
 
-3b. indicative **What is the stem of *errarent*?**
+3b. subjunctive
 
 3c. imperfect
 
