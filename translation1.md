@@ -4,22 +4,25 @@
 
 # Translation-1
 
-Chaos was the first god. His daughters, Night and Earth, were the mother of all men. (**I think it will work more easiliy if you make "Night and Earth" the predicate.**)
-This (**or just "she"**) was the mother of death and destruction. His children were horrible monsters: Typhon, Python and Cyclopes. Typhon and Python were huge dragons and Cyclops a foolish stone worker. (**What number is *fabri bruti*?**)
+'Chaos' primus decorum "erat". 'Filiae' eius, Nox et Terra, mater omnium hominum, "erant" 'Haec mater Mortis et Leti "erat". 'Illius filii' horribilia monstra "erant": Typhon, Python, et Cyclopes. 'Typonn et Python dracones ingentes "erant" et Cyclopes fabri bruti. Sed 'frater' eorum Uranus, primus ipse rex deorum. 'Hic' fortis et magnus "erat", sed sapiens. 
+
+
+Chaos was the first god. His daughters were Night and Earth, the mother of all men. (**I think it will work more easiliy if you make "Night and Earth" the predicate.**)
+She (**or just "she"**) was the mother of death and destruction. His children were horrible monsters: Typhon, Python and Cyclopes. Typhon and Python were huge serpents and Cyclops a foolish stone workers. (**What number is *fabri bruti*?**)
  But their brother Uranus was the first king of the gods. He was strong and big but also wise.
 
-Genitive and refers to chaos.
+1. Genitive and refers to chaos.
 
-Demonstrative pronoun.
+2. Haec is a pronoun, which means this
 
-Mors and Letum.  (**What number is *illius*?**)
+3. Illius refer to the God of death and destruction. (**What number is *illius*?**)
 
-Nominative, plural, masculine.
+4. Nominative, plural, neuter.
 
-Third declension.
+5. Third declension masculine
 
-Genitive masculine plural, Typhon Python and Cyclopes.
+6. Genitive masculine plural, Typhon Python and Cyclopes.
 
-Third declension.
+7. Third declension masculine
 
-Erat.
+8. Was/is 
