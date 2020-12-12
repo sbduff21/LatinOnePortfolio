@@ -1,4 +1,6 @@
-Lycus putabat  Herculem mortuum esse cum Hercules mitteretur ad Cerberum educendum.
+Lycus putabat Herculem mortuum esse cum Hercules mitteretur ad Cerberum educendum.
+
+Lycus volebat capere regnum Herculis et interficere familiam Herculis.
 
 Cum Hercule audiret planun et interfecit.
 
