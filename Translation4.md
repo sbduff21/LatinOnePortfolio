@@ -10,10 +10,10 @@ B.	Questions
 2.	Third-person plural imperfect active subjunctive of possum, empahsising circumstances
 3.	Subject Danai, Present Tense Verb Dant, Minervae indirect object, Donum direct object
 4.	Perfect Active indicative. The form is passive but meaning is active.
-5.	 Indirect statement
+5.	 Indirect statement. Priamus imperavit independent, equum in templum minervae duci dependent. 
 6.	 Present passive infinitive of duco
 7.	Pronoun, Dative singular Indirect object 
-8.	And
+8.	And... Conjunction
 
 
 
