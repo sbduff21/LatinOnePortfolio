@@ -7,7 +7,7 @@ Cum *Achīvī* decem annōs Troiam **capere nōn possent**, *Epeus* equum mirae 
 B.	Questions
 
 1.	Accusative Plural for multiple years, throughout a period of time
-2.	Third-person plural imperfect active subjunctive of possum 
+2.	Third-person plural imperfect active subjunctive of possum, empahsising circumstances
 3.	Subject Danai, Present Tense Verb Dant
 4.	Perfect Active infinitve
 5.	 Indirect statement
