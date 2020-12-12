@@ -1,8 +1,8 @@
 Lycus putabat Herculem mortuum esse cum Hercules mitteretur ad Cerberum educendum.
 
 Lycus volebat capere regnum Herculis et interficere familiam Herculis.
-
-Cum Hercules consilium audiret et interfecit Lycum redit. 
+ 
+Cum Hercules consilium audiret et interfecit Lycum redit.  
 
 Ob id factum horribile, Hercules punitus est a Junone [due to bad deeds]
 
