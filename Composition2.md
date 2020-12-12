@@ -3,6 +3,4 @@ Prometheus cepit ignem ex deis.
 Prometheus dedit ignem omne hominibus.
 Prometheus a deis punitus est ob hoc.
 Aquila petebat cor promethi. 
-
-5th sentence: Hercules killed the eagle using demonstrative. 
 Hercules occidit eam.
