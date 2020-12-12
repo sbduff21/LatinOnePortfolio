@@ -8,7 +8,7 @@ B.	Questions
 
 1.	Accusative Plural for multiple years, throughout a period of time
 2.	Third-person plural imperfect active subjunctive of possum, empahsising circumstances
-3.	Subject Danai, Present Tense Verb Dant
+3.	Subject Danai, Present Tense Verb Dant, Minervae indirect object, Donum direct object
 4.	Perfect Active infinitve
 5.	 Indirect statement
 6.	 Present passive infinitive of duco
