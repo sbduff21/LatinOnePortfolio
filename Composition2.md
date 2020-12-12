@@ -1,3 +1,4 @@
+**Satisfactory:  full credit**
 
 Prometheus cepit ignem ex deis.
 Prometheus dedit ignem omne hominibus.
