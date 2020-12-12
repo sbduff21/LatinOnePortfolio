@@ -5,7 +5,7 @@
 
 2. gerundive
 
-3. to attack athens
+3. to attack athens, must be attacked
 
 4. indicative third person singular, perfect passive
 
