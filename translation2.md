@@ -4,19 +4,24 @@
 
 # Translation-2
 
+Olim *Prometheus*, Iapeti filius primus, homines ex luto **fingebat**. Simul 'Vulcanus" ex luto feminan **faciebat**. *Minerva* huic feminae animam **dedit** et omnes *dei* dona eir **miserunt**. ob id nomen 'Pandora' ei **datum est**. *Pandora* ab Iove in coniugium Epimetheo **data eest**. Filia eorum **erat** *Pyrrha* prima moralis. 
 
-Long ago, Prometheus, first son of Iapetus, shaped man from mud. At the same time, Vulcan shaped woman from mud. Minerva gave this woman spirit and all the gods sent gifts to her.  She was given the name “Pandora”. Pandora was given in marriage to Epimetheus. Their first son was Pyrrha, the first mortal.
+1. Subject of sentence
 
-Adjectival phrase.
+2. Third person singular imperfect active of the verb fingo, to shape.
 
-Third person sing. imperfect active of fingō [to shape]. (**What *mood* is it?  (Parse = person, number, tense, mood, voice**))
+3. Demonstrative adjective. Case: dative, agrees with feminae.
 
-Demonstrative adj., dative, feminine.  **What noun does *huic* agree with?**
+4. Transitive active. Omnes: modifies dei which is nominative subject.
+                      Miserunt: verb
+                      Dona: accusative direct object
+                      Ei: prepositonal phrasee
+                      
+5. Third person singular pluperfect passive indicative
 
-Transitive active sentence.  **What is the grammatical function of each word in the sentence?**
+6. Prepositional phrase
 
-Third person sing. pluperfect passive indicative. **We don't know the pluperfect tense yet.**
+7. Third person singular perfect passive indicative. Sum, esse, fui, futurus.
 
-Prepositional phrase.
+Long ago, Prometheus the first son of Iapetus, shaped a woman from mud. Minerva gave this woman a soul and all the gods sent gifts to her. Because of this, the name 'Pandora' was given to her. Pandora was given away by Jupiter in marriage to Epimetheus. Their daughter was Pyrrha, the first mortal. 
 
-Third person sing. perfect passive indicative: sum, esse, fuī, futūrus.
