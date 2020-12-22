@@ -1,17 +1,17 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 1a. past
 
 1b. subjunctive
 
-1c. imperfect **Does the stem of *erat* look like the present infinitive?**
+1c. imperfect
 
 1d. contemporary
 
 
 2a. past
 
-2b. indicative **What is the stem of *errarent*?**
+2b. indicative
 
 2c. imperfect
 
@@ -29,6 +29,6 @@
 
 4b. subjunctive
 
-4c. pluperfect **If your other anwers say imperfect subjunctive implies earlier time, how can this imperfect subjunctive imply earlier time?**
+4c. pluperfect
 
 4d. earlier
